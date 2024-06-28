@@ -15,10 +15,10 @@ To run this project locally, follow these steps:
 
 **Clone the repository**:
    git clone https://github.com/kiran1643/covid-19-management-system.git
-   cd covid19-management
+   cd covid-19-management-system
 
 1. Compile the project:
-g++ -o covid19_management main.cpp
+g++ -o Covid-Management-System.cpp
 
 2. Run the executable:
-./covid19_management
+   ./Covid-Management-System
