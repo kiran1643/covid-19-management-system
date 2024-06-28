@@ -14,7 +14,7 @@ This project is a C++ application designed to manage and track various aspects o
 To run this project locally, follow these steps:
 
 **Clone the repository**:
-   git clone https://github.com/your-username/covid19-management.git
+   git clone https://github.com/kiran1643/covid-19-management-system.git
    cd covid19-management
 
 1. Compile the project:
